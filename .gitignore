@@ -1,0 +1,10 @@
+.idea/
+*.iml
+
+data/
+deal/
+feat/
+model/
+prediction
+raw/
+raw_data/
